@@ -1,0 +1,8 @@
+{
+  "name": "szweb",
+  "description": "test",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
